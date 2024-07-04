@@ -1,0 +1,9 @@
+/* CategoryTabs.css */
+.ant-tabs-nav::before {
+    border-bottom: none !important;
+}
+
+.ant-tabs-nav .ant-tabs-tab {
+    margin: 0 10px;
+    /* Adjust as needed for spacing between tabs */
+}

@@ -1,0 +1,128 @@
+.details {
+    width: 44px;
+    height: 9px;
+    margin: 0 0px 9.5px 9.5px;
+    font-family: ProximaNova;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #171d22;
+    
+    
+}
+
+.Type-Prime-Mover {
+    width: 101px;
+    height: 15px;
+    margin: 20px 85.5px 2px 9.5px;
+    font-family: ProximaNova;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #417cac;
+}
+
+.Type-Prime-Mover .text-style-1 {
+    font-weight: normal;
+    color: #455569;
+    font-size: 14px;
+}
+
+.Model-Year-2013 {
+    width: 92px;
+    height: 15px;
+    margin: 10px 94.5px 10px 9.5px;
+    font-family: ProximaNova;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #455569;
+    
+}
+
+.Model-Year-2013 .text-style-1 {
+    font-weight: bold;
+    color: #171d22;
+}
+
+.Vehicle-Make-Volvo {
+    width: 107px;
+    height: 15px;
+    margin: 10px 79.5px 10px 9.5px;
+    font-family: ProximaNova;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #455569;
+}
+
+.Vehicle-Make-Volvo .text-style-1 {
+    font-weight: bold;
+    color: #171d22;
+}
+
+.Linkage {
+    width: 45px;
+    height: 15px;
+    margin: 10px 10px 0 9.5px;
+    font-family: ProximaNova;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #455569;
+}
+
+.text-spacing {
+    display: block;
+    margin-bottom: 3px;
+    white-space: nowrap;
+    /* Adjust the spacing as needed */
+}
+
+.mask{
+        width: 150px;
+        height: 150px;
+        margin: 0px 20px 0 10px;
+        padding: 30px 116.6px 30px 116.6px;
+        border-radius: 10px;
+        background-color: #f4f6f8;
+        align-items: center;
+        justify-content: center;
+}
+
+.main-details-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3px;
+    margin-right: 14 0px;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.sub-details-div{
+            margin: 0 20px 0px 20px;
+            flex: 2;
+            padding: 5px 0 9.5px;
+            border: 1px solid #e8e8e8;
+            border-Radius: 15px;
+            opacity: 0.75;
+    
+            background-Color: #f4f6f8;
+}

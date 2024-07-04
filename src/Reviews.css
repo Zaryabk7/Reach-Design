@@ -1,0 +1,79 @@
+.main-review-div{
+        background-color: #f4f6f8;
+        padding-top: 10px ;
+        box-Shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        flex: 1;
+        margin: 1vh;
+        display: flex;
+        flex-Direction: column;
+}
+
+.review-box-container{
+    display: "flex"; align-Items: "center"; margin-Bottom: "10px";
+    
+
+}
+
+.title-style{
+    margin: 1%;
+    white-space: "nowrap";
+}
+
+.rate-div{
+    display: flex;
+    align-items: center;
+}
+
+.display-div{
+    display: grid;
+    grid-template-columns: 0.4fr 1fr;
+    row-gap: 40px;
+    column-gap: 10px;
+    border: "2px solid blue";
+}
+
+.display-div-container{
+    height: auto;
+    padding: 2px 5px;
+    background: white;
+    width: auto;
+    margin-right: 6%;
+    box-Shadow: 0 2px 8px rgba(0, 0, 0, 0.1)
+}
+
+.value{
+    display: flex;
+    align-items: center;
+    margin-top: 1px;
+}
+
+.data-display-div{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    row-gap: 20px;
+    column-gap: 1px;
+    
+}
+
+.review-data-display{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    column-gap: 20px;
+    padding:20px;
+    width: 100%;
+    
+
+}
+
+.bckimg{
+        position: absolute;
+        width: 100%;
+        height: 150px;
+        top: 0;
+        left: 0;
+        background-image: url("./reach_background_image.png");
+        background-size: cover;
+            background-position: center;
+            z-index:  -1; 
+}
